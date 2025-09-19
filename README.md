@@ -25,8 +25,8 @@ Open the notebook in Jupyter: jupyter notebook 1-General_GPT_Unigram.ipynb
 
 📝**Example Output**
 
-Prompt:Last night,
-Generated Text:Last night, I was in the middle of a long day of work, and I was sitting in the middle of the street, 
+**Prompt**:Last night,
+**Generated Text**:Last night, I was in the middle of a long day of work, and I was sitting in the middle of the street, 
 and I was thinking about the future of the city. I was thinking about the future of the city. 
 I was thinking about the
 
